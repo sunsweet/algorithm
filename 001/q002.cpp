@@ -1,6 +1,12 @@
 #include<stdio.h>
 #include<iostream>
 #include <math.h>       /* ceil */
+/*
+输入
+输入只有一行， 包含一个字符。
+输出
+该字符构成的菱形。
+*/
 
 using namespace std;
 void setOneRow(char * row, char c, int charNum, int rowLength){
